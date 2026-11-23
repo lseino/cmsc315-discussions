@@ -3,3 +3,8 @@ __pycache__/
 .DS_Store
 .vscode/
 .idea/
+
+# CMSC 310 coursework is local-only and must never be committed or pushed.
+/cmsc310/
+/coursework/CMIS_310/
+/create-cmsc310-folder.sh
